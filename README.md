@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: May 7-8, 2024
+- Facilitator: @Prabhakar Gundu
 
 ## Class Resources
 
